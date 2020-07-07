@@ -1,0 +1,20 @@
+Sonometro;Prueba01;1. Indicación a la frecuencia de comprobación. IEC 61672-3: 2006 Cláusula 9
+Sonometro;Prueba02;2. Ruido Intrínseco. IEC 61672-3: 2006 Cláusula 10
+Sonometro;Prueba03;3. Ensayo con ponderación frecuencial C con señales acústicas. IEC 61672-3:2006 Cláusula 11
+Sonometro;Prueba04;4. Ensayo  de las ponderaciones frecuenciales con señales eléctricas. IEC 61672-3: 2006 Cláusula 12
+Sonometro;Prueba05;5. Ponderaciones frecuenciales y temporales a 1 KHz. IEC 61672-3: 2006 Cláusula 13
+Sonometro;Prueba06;6. Linealidad de nivel en el rango de referencia. IEC 61672-3: 2006 Cláusula 14
+Sonometro;Prueba07;7. Linealidad de nivel incluyendo el control de rangos de niveles. IEC 61672-3: 2006 Cláusula 15
+Sonometro;Prueba08;8. Respuesta a trenes de ondas. IEC 61672-3: 2006 Cláusula 16
+Sonometro;Prueba09;9. Nivel de sonido con ponderación Cpeak. IEC 61672-3: 2006 Cláusula 17
+Sonometro;Prueba10;10. Indicación de sobrecarga. IEC 61672-3: 2006 Cláusula 18
+Calibrador;Prueba21;1. Medición Nivel de Presión Sonora Calibrador Patrón
+Dosimetro;Prueba31;1. Sensibilidad acústica absoluta. IEC 61252: 2002 Cláusula 6
+Dosimetro;Prueba32;2. Ponderación frecuencial A (entrada acústica). IEC 61252: 2002 Cláusula 7
+Dosimetro;Prueba33;3. Ponderación frecuencial A (entrada eléctrica). IEC 61252: 2002 Cláusula 7
+Dosimetro;Prueba34;4. Linealidad de la respuesta a señales estacionarias de 1kHz. IEC 61252: 2002 Cláusula 8
+Dosimetro;Prueba35;5. Linealidad de la respuesta a señales estacionarias de 63 Hz. IEC 61252: 2002 Cláusula 8
+Dosimetro;Prueba36;6. Linealidad de la respuesta a señales estacionarias de 8 kHz, E = 0,1 Pa2h y E= 10 Pa2h Cláusula 8
+Dosimetro;Prueba37;7. Respuesta a señales de corta duración Cláusula 9
+Dosimetro;Prueba38;8. Respuesta a impulsos unipolares Cláusula 10
+Dosimetro;Prueba39;9. Indicación de sobrecarga de enganche. IEC 61252: 2002 Cláusula 11
